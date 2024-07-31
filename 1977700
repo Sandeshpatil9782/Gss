@@ -84,12 +84,12 @@
     </div>
     <div class="carousel-item">
       <img src="3.jpg" class="d-block w-100" alt="...">
-      <h1 class="animate__animated animate__backInRight" style="position: absolute;margin-top:-60%; margin-left:10%; color:blue;">FOOTBALL</h1>
+      <h1 class="animate__animated animate__backInRight" style="position: absolute;margin-top:-60%; margin-left:10%; color:blue;">CYCLING</h1>
     
     </div>
     <div class="carousel-item">
       <img src="4.jpg" class="d-block w-100" alt="...">
-      <h1 class="animate__animated animate__backInLeft" style="position: absolute;margin-top:-63%; margin-left:10%; color:blue;">CYCLING</h1>
+      <h1 class="animate__animated animate__backInLeft" style="position: absolute;margin-top:-63%; margin-left:10%; color:blue;">FOOTBALL</h1>
     
     </div>
   </div>
