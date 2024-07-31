@@ -128,7 +128,7 @@
 
 		<div class="col-3">
 			<div class="card" style="width: 15rem;">
-  				<img src="3.jpg" class="card-img-top" alt="...">
+  				<img src="4.jpg" class="card-img-top" alt="...">
  				 <div class="card-body">
     				<h5 class="card-title">FOOTBALL</h5>
    				 	<p class="card-text">Football is a game of inches,The team with the most heart wins.</p>
@@ -139,7 +139,7 @@
 
 		<div class="col-3">
 			<div class="card" style="width:15rem;">
-  				<img src="4.jpg" class="card-img-top" alt="...">
+  				<img src="3.jpg" class="card-img-top" alt="...">
  				 <div class="card-body">
     				<h5 class="card-title">CYCLING</h5>
    				 	<p class="card-text">Cycling games are not just about speed,they're about strategy and skills.</p>
